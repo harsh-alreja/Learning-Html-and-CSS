@@ -1,7 +1,7 @@
 body
 {
-	background-image: url("wall/sherlock.jpg");
-	background-attachment: fixed;
+    background-image: url("wall/sherlock.jpg");
+    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -72,7 +72,7 @@ a{
 }
 
 #team{
-   background-color: rgba(0,0,0,.7);
+   background-color: rgba(0,0,0,.6);
    width:inherit;
    height:35px;
    text-align: center;
