@@ -14,7 +14,7 @@ body
 	height:80px;
 	border:1px solid white;
 	padding: 0px 0px 0px 20px;
- 	background-color: rgba(0,0,0,.7);
+ 	background-color: rgba(0,0,0,.6);
 }
 
 h1
@@ -53,7 +53,7 @@ a{
 }
 
 #vision{
-   background-color: rgba(0,0,0,.7);
+   background-color: rgba(0,0,0,.6);
    width:inherit;
    height:35px;
    text-align: center;
@@ -66,13 +66,13 @@ a{
 #txt{
 	padding: 10px;  
 	border:1px solid white;
-	background-color: rgba(0,0,0,.7);
+	background-color: rgba(0,0,0,.6);
 	padding: 20px 20px 15px 40px;
 	font-style: justify;
 }
 
 #team{
-   background-color: rgba(0,0,0,.7);
+   background-color: rgba(0,0,0,.6);
    width:inherit;
    height:35px;
    text-align: center;
